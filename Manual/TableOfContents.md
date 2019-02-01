@@ -1,9 +1,9 @@
 Unity Manual ToC
 ================
  - [UnityManual]()
+	 - [NewNodeST](NewNodeST.md)
 	 - [Folderts]()
 		 - [UnityManual Overview](UnityManual.md)
-		 - [NewNodeST](NewNodeST.md)
 	 - [OfflineDocumentation](OfflineDocumentation.md)
 	 - [UnityManual Overview](UnityManual_1.md)
 	 - [UnityManual]()
