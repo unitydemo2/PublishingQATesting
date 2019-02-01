@@ -1,9 +1,8 @@
-Unity Manual TOC
+Unity Manual ToC
 ================
-
  - [UnityManual]()
-	 - [NewNodeST](NewNodeST.md)
 	 - [UnityManual Overview](UnityManual.md)
+	 - [NewNodeST](NewNodeST.md)
 	 - [UnityManual]()
 		 - [UnityManual Overview](UnityManual_1.md)
 		 - [ManualVersions](ManualVersions.md)
