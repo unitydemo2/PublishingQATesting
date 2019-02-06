@@ -1,9 +1,9 @@
 using System.Diagnostics;
 
-namespace DiffPlex.DiffBuilder.Model
+namespace ScriptRef.DiffBuilder.Model
 {
     
-    public static class GetColorBlindSafePaletteColorBlindSafePalette
+    public static class GetColorBlindSafePaletteColorBlindSafePalette1
     {
         
         [Conditional("LOG")]
