@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace DiffPlex
+namespace DiffPlex.DiffBuilder.Model
 {
     
     public static class GetColorBlindSafePaletteColorBlindSafePalette
